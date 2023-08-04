@@ -23,3 +23,9 @@ class Solution:
             result[index] = value
 
         return result
+
+
+"""Commentary
+We do three passes across the input so it becomes an O(n) solution
+Memory can be reduced by saving directly into the result array instead of prefix,postfix arrays
+"""
