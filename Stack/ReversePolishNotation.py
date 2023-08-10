@@ -29,5 +29,5 @@ class Solution(object):
 """Commentary:
 This runs in O(n) because for each token we just do a max of two operations. 
 
-The only tricky parts of this one is rounding towards zero which can be done by int()
+The only tricky part of this one is rounding towards zero which can be done by int()
 also the edge case when there is only one input requires its own way to deal with it"""
