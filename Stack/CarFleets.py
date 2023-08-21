@@ -26,5 +26,5 @@ through the input, which is only linear.
 
 
 The trick to this question is to realize that we only add a fleet if a car takes longer than the car in front of it.
-We can figure this out by sorting the input by position, and then check the time left to the destination.
+We can figure this out by sorting the input by position, and then check the time left to the destination
 """
