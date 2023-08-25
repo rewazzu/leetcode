@@ -47,6 +47,6 @@ This code runs in O(n+m) where n and m are lengths of the list.
 This is because we iterate through both lists and do constant time operations each time.
 The memory complexity is O(n+m) as we create a new list. 
 
-This problem is straight forward, mostly need to keep track of the carry overs.
+This problem is straight forward, mostly need to keep track of the carry overs
 
 '''
