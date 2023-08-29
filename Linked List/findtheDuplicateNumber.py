@@ -18,4 +18,5 @@ class Solution:
 
 '''Commentary: 
 This solution uses Floyd's algorithm. 
-We treat the array as a linked list. There is a cycle in the linked list'''
+We treat the array as a linked list. There is a cycle in the linked list, we use floyd's to detect the cycle.
+Runs in O(n) time.'''
