@@ -15,4 +15,4 @@ class Solution:
         return depth
 
 
-'''Commentary: Simple DFS '''
+'''Commentary: Simple DFS runs in O(n) time'''
